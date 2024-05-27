@@ -81,3 +81,11 @@ import seaborn as sns
     # Show all plots
     plt.show()
 '''
+
+### Seventh - Data Visualization
+'''shell
+    sns.pairplot(df, hue="species")
+    plt.show()
+'''
+
+### Conclusion
